@@ -281,6 +281,3 @@ class SimpleMLP:
         model = cls(config)
         model.params = params
         return model
-        model = cls(config)
-        model.params = params
-        return model
